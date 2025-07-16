@@ -16,9 +16,13 @@ html,body{
     padding: 100px;
     border-radius: 50px;
     gap: 15px;
+    text-align: center;
 }
 
-
+.container img{
+    width: 65%;
+    height: auto;
+}
 
 .option button{
     background-color: pink;
@@ -37,9 +41,7 @@ html,body{
    display: flex;
    align-items: center;
    justify-content: center;
-   width: 250px;
-   height: auto;
-}
+   }
 
 
 
@@ -75,8 +77,6 @@ html,body{
    display: flex;
    align-items: center;
    justify-content: center;
-   width: 150px;
-   height: auto;
 }
 
 
@@ -116,8 +116,6 @@ html,body{
    display: flex;
    align-items: center;
    justify-content: center;
-   width: 150px;
-   height: auto;
 }
 
  }
@@ -154,8 +152,6 @@ html,body{
    display: flex;
    align-items: center;
    justify-content: center;
-   width: 250px;
-   height: auto;
 }
 
  }
@@ -190,8 +186,6 @@ html,body{
    display: flex;
    align-items: center;
    justify-content: center;
-   width: 250px;
-   height: auto;
 }
 
 
